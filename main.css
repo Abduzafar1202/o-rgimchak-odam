@@ -1,0 +1,209 @@
+body{
+    position: absolute;
+    left:50px;
+    
+    }
+    
+    
+    .box img{
+        width: 1200px;
+        height: 700px;
+        top: 25px;
+        left: 90px;
+        position: absolute;
+        
+    }
+    .box{
+        background-image: url(./img/Rectangle2.png);
+        width:1370px;
+        height: 750px;
+        top: 0px;
+        left: -5px;
+        position: absolute;
+    
+    }
+    
+    .spider-logo{
+    position: absolute;
+    left: 130px;
+    top: 40px;
+    
+    
+    }
+    
+    li {
+        display: inline-block;
+        margin-right: 40px;
+    
+    }
+    
+    
+    a {
+        text-decoration: none;
+        color:rgba(255, 0, 0, 1);
+    
+        
+    }
+    
+    a:hover{
+        color:  #930000;
+    
+    }
+    
+    a:active {
+        color: rgb(0, 60, 255);
+    }
+    
+    
+    .nav {
+    left: 300px;
+    position: relative;
+    top: 60px;
+    
+    }
+    
+    
+    .spider-group{
+    position: absolute;
+    top: 60px;
+    left: 1120px;
+    
+    
+    }
+    
+    .spider-aranha{
+    position: absolute;
+    width: 565px;
+    height: 568px;
+    top: 109px;
+    left: 200px;
+    }
+    
+    .spider-man{
+    position: absolute;
+    width: 222px;
+    height: 65px;
+    top: 222px;
+    left: 350px;
+    
+    
+    }
+    
+    .spider-pi{
+    position: absolute;
+    width: 495px;
+    height: 73px;
+    top: 311px;
+    left: 200px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 14px;
+    }
+    
+    .button {
+        background-color: rgb(255, 0, 0); 
+        width: 150px;
+        height: 50px;
+        top: 425px;
+        left: 260px;
+        border-radius: 10px;
+      position: absolute;
+    
+    }
+    
+    .button a {
+        color: white;
+    position:absolute;
+    top: 15px;
+    left: 30px;
+    font-size:16px;
+    
+    }
+    
+    .button:hover {
+        box-shadow: rgb(255, 0, 0) 0px 12px 28px 0px, rgb(255, 0, 0) 0px 2px 4px 0px, rgb(255, 0, 0) 0px 0px 0px 1px inset;
+    }
+    
+    .button1 {
+        background-color: rgb(255, 0, 0); 
+        width: 200px;
+        height: 50px;
+        top: 425px;
+        left: 425px;
+        border-radius: 10px;
+      position: absolute;
+    
+    }
+    
+    .button1 a {
+        color: white;
+    position:absolute;
+    top: 15px;
+    left: 35px;
+    font-size:16px;
+    text-align: center;
+    }
+    
+    .button1:hover {
+        box-shadow: rgb(255, 0, 0) 0px 12px 28px 0px, rgb(255, 0, 0) 0px 2px 4px 0px, rgb(255, 0, 0) 0px 0px 0px 1px inset;
+    }
+    
+    .spider-nav li {
+        display: inline-block;
+        margin-right: 250px;
+    
+    }
+    
+    h2{
+    color: white;
+    position: absolute;
+    
+    }
+    
+    .spider-nav {
+    left: 180px;
+    position: relative;
+    top: 470px;
+    
+    }
+    
+    .spider-nav-p{
+    position: absolute;
+        width: 202px;
+        height: 65px;
+        top: 590px;
+        left: 170px;    
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    }
+    
+    .spider-nav-p1{
+        position: absolute;
+            width: 202px;
+            height: 65px;
+            top: 590px;
+            left: 440px;    
+        font-size: 10px;
+        text-align: center;
+        color: white;
+        }
+        .spider-nav-p2{
+            position: absolute;
+                width: 202px;
+                height: 65px;
+                top: 590px;
+                left: 690px;    
+            font-size: 10px;
+            text-align: center;
+            color: white;
+            }
+    
+            .spider-principal{
+    position: absolute;
+    width: 750px;
+    height: 600px;
+    top: 80px;
+    left: 600px;
+    
+            }
